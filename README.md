@@ -63,4 +63,3 @@ Added in the latest version, the visitor manager handles visitor and ticket mana
 
 ---
 
-This README has been edited for clarity, professionalism, and correctness.
